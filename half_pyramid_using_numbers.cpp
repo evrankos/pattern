@@ -1,6 +1,6 @@
 /*
 Author: Niraj Patil
-Aim: To print a half pyramid after 180degrees pattern of "*"
+Aim: To print a halfpyramid pattern using numbers
 */
 
 #include<iostream>
@@ -9,7 +9,7 @@ using namespace std;
 int main() {
 	int n;
 
-	cout << "Enter the height: ";
+	cout << "Enter the height of the pyramid: ";
 	cin >> n;
 
 	for (int i = 1; i <= n; i++) {
