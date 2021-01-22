@@ -9,7 +9,7 @@ using namespace std;
 int main() {
 	int n;
 
-	cout << "Enter the height: ";
+	cout << "Enter the height of the pyramid: ";
 	cin >> n;
 
 	for (int i = 1; i <= n; i++) {
