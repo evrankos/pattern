@@ -10,7 +10,7 @@ int main() {
 	int n;
 	int count = 1;
 	
-	cout << "Enter the height: ";
+	cout << "Enter the height of the Floyd's triangle: ";
 	cin >> n;
 
 	for (int i = 1; i <= n; i++) {
