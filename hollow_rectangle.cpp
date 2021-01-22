@@ -10,9 +10,9 @@ int main() {
 	int row;
 	int col;
 
-	cout << "Enter the number of rows: ";
+	cout << "Enter the height of rectangle: ";
 	cin >> row;
-	cout << "Enter the number of columns: ";
+	cout << "Enter the width of rectangle: ";
 	cin >> col;
 
 	for (int i = 1; i <= row; i++) {
