@@ -1,6 +1,12 @@
 /*
 Author: Niraj Patil
 Aim: To print a inverted half pattern of "*"
+Output: 
+*****
+****
+***
+**
+*
 */
 
 #include<iostream>

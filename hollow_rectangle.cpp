@@ -1,6 +1,12 @@
 /*
 Author: Niraj Patil
 Aim: To print a hollow rectangle pattern of "*"
+Output: 
+****
+*  *
+*  *
+*  *
+****
 */
 
 #include<iostream>

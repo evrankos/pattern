@@ -1,6 +1,17 @@
 /*
 Author: Niraj Patil
 Aim: To print a butterfly pattern of "*"
+Output: 
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
 */
 
 #include<iostream>

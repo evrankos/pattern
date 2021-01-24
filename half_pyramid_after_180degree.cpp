@@ -1,6 +1,12 @@
 /*
 Author: Niraj Patil
 Aim: To print a half pyramid after 180degrees pattern of "*"
+Output: 
+	*
+   **
+  ***
+ ****
+*****
 */
 
 #include<iostream>
@@ -9,7 +15,7 @@ using namespace std;
 int main() {
 	int n;
 
-	cout << "Enter the height of the pyramid: ";
+	cout << "Enter the height of pyramid: ";
 	cin >> n;
 
 	for (int i = 1; i <= n; i++) {
